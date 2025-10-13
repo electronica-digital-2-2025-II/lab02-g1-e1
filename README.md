@@ -50,6 +50,13 @@ Finalmente, se incluye el módulo de corrimiento a la derecha. Este circuito tom
 En este diagrama se observa la ALU de 4 bits, que integra todos los módulos anteriores: suma, resta, multiplicación, operación AND y corrimiento. A través del selector SEL se elige qué operación realizar, mientras que las señales de reloj y control permiten el funcionamiento del multiplicador FSM. La salida Y, de 8 bits, muestra el resultado final. Este circuito resume todo el trabajo de los módulos anteriores en una sola unidad funcional.
 
 ## Simulaciones 
+A continuación se muestran las simulaciones realizadas para comprobar el funcionamiento general de la ALU. En las gráficas se pueden ver las señales principales del circuito, como las entradas A y B, el selector SEL y la salida Y. Al observar la simulación, se nota que cuando SEL toma el valor 000, la salida Y muestra 08, lo que indica que la operación que se está ejecutando en ese momento es una suma.
+
+Durante la simulación se puede cambiar el valor de SEL para probar las diferentes operaciones de la ALU. Así, por ejemplo, cuando se selecciona otro valor, la salida cambia mostrando el resultado correspondiente a la resta, multiplicación, AND o corrimiento. De esta forma se confirma que el circuito responde correctamente y que todas las operaciones se ejecutan tal como fueron programadas.
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/bd765429-2937-45b6-ac10-79a740f7943f" />
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/f4ee52c0-bfd5-483c-98b6-9556031ed515" />
+
+
 
 ## Implementación
 
