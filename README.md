@@ -3,6 +3,9 @@
 # Lab02 - Unidad Aritmético-Lógica.
 
 # Integrantes
+**Jose Luis Ocoro Banguera
+**Miguel Lopez
+**Angel Ramires
 
 # Informe
 
@@ -17,7 +20,10 @@ Indice:
 ## Diseño implementado
 
 ### Descripción
+En este laboratorio se trabajó en el diseño e implementación de diferentes módulos digitales en Verilog, con el objetivo de construir paso a paso una ALU de 4 bits totalmente funcional.
+Primero se desarrollaron los bloques básicos: sumador, restador, compuerta AND, registro de corrimiento y multiplicador, para luego integrarlos dentro del módulo principal de la ALU.
 
+Finalmente, se realizó la simulación completa a través del testbench de la ALU, verificando el correcto funcionamiento de cada operación según el valor del selector (SEL) y observando la salida general del sistema.
 ### Diagrama
 
 ## Simulaciones 
