@@ -25,6 +25,9 @@ Primero se desarrollaron los bloques básicos: sumador, restador, compuerta AND,
 
 Finalmente, se realizó la simulación completa a través del testbench de la ALU, verificando el correcto funcionamiento de cada operación según el valor del selector (SEL) y observando la salida general del sistema.
 ### Diagrama
+## Sumador de 4bit: 
+https://github.com/electronica-digital-2-2025-II/lab02-g1-e1/blob/main/sumador%20de%204%20bit%20diagrama.jpeg?raw=true
+
 
 
 ## Simulaciones 
