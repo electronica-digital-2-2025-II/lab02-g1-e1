@@ -3,9 +3,9 @@
 # Lab02 - Unidad Aritmético-Lógica.
 
 # Integrantes
-1: Jose Luis Ocoro Banguera
-2: Miguel Lopez
-3: Angel Ramires
+1. Jose Luis Ocoro Banguera
+2. Miguel Lopez
+3. Angel Ramires
 
 # Informe
 
