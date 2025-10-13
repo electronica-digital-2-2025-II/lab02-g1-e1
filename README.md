@@ -4,7 +4,9 @@
 
 # Integrantes
 **Jose Luis Ocoro Banguera
+
 **Miguel Lopez
+
 **Angel Ramires
 
 # Informe
