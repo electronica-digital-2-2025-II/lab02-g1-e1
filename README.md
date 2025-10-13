@@ -47,13 +47,7 @@ Finalmente, se incluye el módulo de corrimiento a la derecha. Este circuito tom
 
 * ALU de 4 bits:
 <img width="1536" height="1024" alt="alu diagrama" src="https://github.com/user-attachments/assets/5330ba25-b998-49ce-ab9e-93cc4be55559" />
-
 En este diagrama se observa la ALU de 4 bits, que integra todos los módulos anteriores: suma, resta, multiplicación, operación AND y corrimiento. A través del selector SEL se elige qué operación realizar, mientras que las señales de reloj y control permiten el funcionamiento del multiplicador FSM. La salida Y, de 8 bits, muestra el resultado final. Este circuito resume todo el trabajo de los módulos anteriores en una sola unidad funcional.
-
-
-
-
-
 
 ## Simulaciones 
 
