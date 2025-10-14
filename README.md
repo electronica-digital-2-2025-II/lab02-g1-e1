@@ -3,7 +3,7 @@
 # Lab02 - Unidad Aritmético-Lógica.
 
 # Integrantes
-1. Jose Luis Ocoro Banguera
+1. Jose Luis Ocoro Banguera - https://github.com/jocorob
 2. Miguel Lopez
 3. Angel Ramires
 
