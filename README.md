@@ -74,4 +74,13 @@ El resultado final fue mejor de lo que esperábamos, ya que todas las funciones 
 En general, fue una experiencia muy buena porque logramos integrar diferentes operaciones en un mismo módulo, simularlas e implementarlas en la ZYBO Z7. Además, nos dejó la satisfacción de ver que sí somos capaces de diseñar y hacer funcionar un proyecto digital desde cero.
 
 ## Referencias
+Harris, D. M., & Harris, S. L. (2016). Digital Design and Computer Architecture (2.ª ed.). Morgan Kaufmann.
+
+Mano, M. M., & Ciletti, M. D. (2018). Diseño Digital con Verilog HDL (6.ª ed.). Pearson Educación.
+
+Digilent Inc. (2023). Zybo Z7 Reference Manual. Recuperado de https://digilent.com/reference/programmable-logic/zybo-z7/reference-manual
+
+Xilinx. (2023). Vivado Design Suite User Guide. AMD-Xilinx.
+
+Ramírez Ma, J. (2025). Lab Electrónica Digital 2 — Lab02 README. GitHub. Recuperado de https://github.com/jharamirezma/Lab_electronica_digital_2/blob/main/labs/lab02/README.md
 
