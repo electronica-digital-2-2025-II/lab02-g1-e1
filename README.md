@@ -59,7 +59,19 @@ Durante la simulación se puede cambiar el valor de SEL para probar las diferent
 
 
 ## Implementación
+<img width="1423" height="1010" alt="image" src="https://github.com/user-attachments/assets/a35081f7-401e-45f0-8778-b7621a7d4907" />
+
 
 ## Conclusiones
+Al implementar la ALU pudimos ver cómo un solo módulo puede integrar varias operaciones, muy parecido a lo que hace un procesador en un computador. Esto nos ayudó a entender mejor cómo se combinan las partes lógicas y aritméticas dentro de un sistema para ejecutar distintas tareas.
+
+Durante la práctica fuimos comprendiendo poco a poco cómo interpretar los resultados y cómo cada bit representa un valor diferente, lo que nos permitió leer correctamente las salidas del circuito y verificar que todo funcionara bien.
+
+Este tipo de ejercicios son muy útiles porque nos acercan al lenguaje con el que se diseñan los procesadores, aunque en este caso trabajemos con un ejemplo más simple. Es una forma práctica de ver cómo lo que escribimos en Verilog se convierte en hardware que realmente hace operaciones.
+
+El resultado final fue mejor de lo que esperábamos, ya que todas las funciones —suma, resta, AND, multiplicación y shift— trabajaron correctamente. Solo nos faltó incluir una salida para el bit “zero”, pero no afectó el funcionamiento general.
+
+En general, fue una experiencia muy buena porque logramos integrar diferentes operaciones en un mismo módulo, simularlas e implementarlas en la ZYBO Z7. Además, nos dejó la satisfacción de ver que sí somos capaces de diseñar y hacer funcionar un proyecto digital desde cero.
 
 ## Referencias
+
