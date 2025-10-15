@@ -61,6 +61,8 @@ Durante la simulación se puede cambiar el valor de SEL para probar las diferent
 ## Implementación
 <img width="1423" height="1010" alt="image" src="https://github.com/user-attachments/assets/a35081f7-401e-45f0-8778-b7621a7d4907" />
 
+https://github.com/electronica-digital-2-2025-II/lab02-g1-e1/blob/main/implementacion-lab-2-alu-dig2_M0xH4E9x.mp4
+
 
 ## Conclusiones
 Al implementar la ALU pudimos ver cómo un solo módulo puede integrar varias operaciones, muy parecido a lo que hace un procesador en un computador. Esto nos ayudó a entender mejor cómo se combinan las partes lógicas y aritméticas dentro de un sistema para ejecutar distintas tareas.
